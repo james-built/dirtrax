@@ -7,6 +7,10 @@
   "author": "james-built <jgbuilt@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "leaflet": "^1.3.4"
+    "leaflet": "^1.3.4",
+    "leaflet.offline": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
   }
 }
