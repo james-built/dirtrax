@@ -7,7 +7,7 @@
   "author": "james-built <jgbuilt@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "import 'leaflet.offline'"
+    "start": "import 'leaflet.offline' nodemon index"
   },
   "dependencies": {
     "express": "^4.16.3",
