@@ -1,0 +1,9 @@
+{
+  "name": "dirtrax",
+  "version": "1.0.0",
+  "description": "trail mapping and sharing platform",
+  "main": "index.js",
+  "repository": "https://github.com/james-built/dirtrax.git",
+  "author": "james-built <jgbuilt@gmail.com>",
+  "license": "MIT"
+}
