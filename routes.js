@@ -5,5 +5,6 @@ const router = app.Router()
 module.exports = router
 
 router.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'))
+  const filepath = path.join(__dirname, 'index.html')
+  res.sendFile(filepath)
 })
